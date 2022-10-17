@@ -5,3 +5,12 @@
 .pub/
 
 build/
+/.flutter-plugins
+/.flutter-plugins-dependencies
+/.idea/.gitignore
+/.idea/libraries/Dart_Packages.xml
+/.idea/libraries/Dart_SDK.xml
+/.idea/libraries/Flutter_Plugins.xml
+/.idea/html-editor-enhanced.iml
+/.idea/modules.xml
+/.idea/vcs.xml
